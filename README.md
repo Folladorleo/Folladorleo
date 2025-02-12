@@ -1,16 +1,19 @@
-## Hi there 👋
+💻 Hello, World! I'm Leonardo Menon Follador 👋
 
-<!--
-**Folladorleo/Folladorleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Engenheiro de Software especializado em Desenvolvimento Web. Apaixonado por criar aplicações escaláveis e bem estruturadas, atuo com tecnologias modernas para entregar soluções eficientes e intuitivas. 🚀
 
-Here are some ideas to get you started:
+🚀 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Frontend: React.js, Next.js, Vue.js, TypeScript, Tailwind CSS
+
+🔹 Backend: Node.js, Express, NestJS, Ruby on Rails
+
+🔹 Banco de Dados: PostgreSQL, MySQL, MongoDB, Firebase
+
+🌍 Onde me encontrar
+
+💼 LinkedIn
+
+✉️ Email: seuemail@example.com
+
+Sempre aberto a novas oportunidades e colaborações! Vamos construir algo incrível juntos. 🚀
