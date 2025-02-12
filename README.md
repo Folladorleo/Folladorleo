@@ -12,7 +12,7 @@ Sou um Engenheiro de Software especializado em Desenvolvimento Web. Apaixonado p
 
 🌍 Onde me encontrar
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-menon-follador-71627b2a4/
 
 ✉️ Email: folladorleo@gmail.com
 
